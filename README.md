@@ -1,7 +1,9 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FIryDev&psig=AOvVaw1UGfRgJmU3pqHSdnLbCB6y&ust=1696137679598000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj6_bDL0YEDFQAAAAAdAAAAABAf)](https://imcalledishita.io)
+[![MasterHead](![image](https://github.com/ImcalledIshita/ImcalledIshita/assets/95135379/b4d330bf-b8de-4005-ae59-4c553f542ba7)
+)](https://imcalledishita.io)
 <h1 align="center">Hi 👋, I'm Ishita Choudhury</h1>
 <h3 align="center">🔥 Exploring the limitless horizons of technology to fuel my curiosity! 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0nwIp8VSiugUmMhtt0PBFV&ust=1696137463850000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDIksrK0YEDFQAAAAAdAAAAABAh">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/ImcalledIshita/ImcalledIshita/assets/95135379/a0067265-d24a-48d9-8136-f7d0ee0f0afa)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imcalledishita&label=Profile%20views&color=0e75b6&style=flat" alt="imcalledishita" /> </p>
 
 - 🌱 I’m currently learning **Web development, UI/UX Design, Java**
