@@ -1,4 +1,4 @@
-![MasterHead](![image](https://github.com/ImcalledIshita/ImcalledIshita/assets/95135379/b4d330bf-b8de-4005-ae59-4c553f542ba7)
+![logo](![image](https://github.com/ImcalledIshita/ImcalledIshita/assets/95135379/b4d330bf-b8de-4005-ae59-4c553f542ba7)
 )
 <h1 align="center">Hi 👋, I'm Ishita Choudhury</h1>
 <h3 align="center">🔥 Exploring the limitless horizons of technology to fuel my curiosity! 🚀</h3>
