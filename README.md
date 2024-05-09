@@ -1,5 +1,4 @@
-![logo](![image](https://github.com/ImcalledIshita/ImcalledIshita/assets/95135379/b4d330bf-b8de-4005-ae59-4c553f542ba7)
-)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ishita Choudhury</h1>
 <h3 align="center">🔥 Exploring the limitless horizons of technology to fuel my curiosity! 🚀</h3>
 <img align="right" alt="Coding" width="400" src="![image](https://github.com/ImcalledIshita/ImcalledIshita/assets/95135379/a0067265-d24a-48d9-8136-f7d0ee0f0afa)
